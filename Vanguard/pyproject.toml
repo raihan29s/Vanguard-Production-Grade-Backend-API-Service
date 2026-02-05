@@ -1,0 +1,9 @@
+[tool.ruff]
+# Enable Pyflakes (F) and Isort (I) rules
+select = ["E", "F", "I"]
+fix = true
+line-length = 88
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
