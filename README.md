@@ -1,11 +1,5 @@
 # Vanguard: Enterprise-Grade Retail Backend API
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?logo=docker&logoColor=white)
-
 **Vanguard** is a production-ready RESTful service designed for high-concurrency inventory management. It demonstrates modern backend patterns, including asynchronous database operations, multi-layer security, and performance optimization through distributed caching.
 
 ---
