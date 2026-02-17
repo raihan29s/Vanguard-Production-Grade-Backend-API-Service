@@ -10,7 +10,7 @@
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 Vanguard utilizes a **Cache-Aside Architecture** to balance data integrity with high performance.
 
@@ -22,7 +22,7 @@ Vanguard utilizes a **Cache-Aside Architecture** to balance data integrity with 
 
 ---
 
-## ⚡ Key Performance Metrics
+##  Key Performance Metrics
 
 * **Database Latency:** ~80-120ms average response.
 * **Cache Latency:** ~5-12ms average response.
@@ -30,7 +30,7 @@ Vanguard utilizes a **Cache-Aside Architecture** to balance data integrity with 
 
 ---
 
-## 🛠 Project Structure
+##  Project Structure
 
 ```text
 app/
